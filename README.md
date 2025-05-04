@@ -1,3 +1,2 @@
 # demo
-my name is purush
-hello
+just basic projects
